@@ -1,4 +1,5 @@
 <?php 
+// simple Home API to the send command my broadlink
 // http://raspberrypi_ip/broadlink_cmd.php?cmd=filname_command
 // cmd is the filename to sendcode
 $cmd = $_GET["cmd"];
